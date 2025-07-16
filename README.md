@@ -1,2 +1,2 @@
 # calculator
-its literally a calculator 
+it's literally a calculator 
